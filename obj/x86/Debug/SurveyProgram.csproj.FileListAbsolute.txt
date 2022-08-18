@@ -1,0 +1,5 @@
+C:\Users\LironChuK_2\AppData\Local\Temporary Projects\SurveyProgram\bin\Debug\SurveyProgram.exe
+C:\Users\LironChuK_2\AppData\Local\Temporary Projects\SurveyProgram\bin\Debug\SurveyProgram.pdb
+C:\Users\LironChuK_2\AppData\Local\Temporary Projects\SurveyProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LironChuK_2\AppData\Local\Temporary Projects\SurveyProgram\obj\x86\Debug\SurveyProgram.exe
+C:\Users\LironChuK_2\AppData\Local\Temporary Projects\SurveyProgram\obj\x86\Debug\SurveyProgram.pdb
